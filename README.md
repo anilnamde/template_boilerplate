@@ -1,5 +1,6 @@
-# template_boilerplate
-Project to create the files in project dynamically
+# Template Boilerplate
+
+Project to create files in project dynamically and make developer job easy.
 
 
 ## Description
