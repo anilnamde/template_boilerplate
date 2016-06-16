@@ -22,7 +22,7 @@ Now imaging following templates which will be eqully repeatative,
 3. some_file_controller.js (controller boilerplate)
 4. _some_file.scss (should have default scss class)
 5. some_file_test.js (component testing boilerplate code)
-6 some_file_controller_test.js (controller testing boilerplate)
+6. some_file_controller_test.js (controller testing boilerplate)
 
 I believe it can be automaded with some efforts. Obviously same solution might not fit for all but sure if configuration can be provided to tool with some initial efforts it could make life easy.
 
